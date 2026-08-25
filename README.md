@@ -5,7 +5,8 @@
 ## Arayüz
 
 <!-- Ekran görüntüsünü docs/screenshot.png olarak ekleyin -->
-![Geoider arayüzü](docs/screenshot.png)
+<img width="1473" height="982" alt="arayüz" src="https://github.com/user-attachments/assets/6faaee97-de4b-4886-8452-dddc5ba141af" />
+
 
 ## Kurulum
 
